@@ -1,4 +1,4 @@
-# Convert a YOLOv11 Drone Detection Model into a Mobile-Optimized TFLite Format
+# Convert YOLOv11 Drone Detection Model into Mobile-Optimized TFLite Format
 
 This notebook shows how to take an existing YOLOv11 model and convert it into a format that is better suited for running on mobile devices. 
 To demonstrate this, the notebook does the following:
